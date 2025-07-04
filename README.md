@@ -1,10 +1,4 @@
-### Привет всем, я Таня! :hibiscus:
-##### Успешно закончила школу по автоматизации тестирования QA.GURU!
 
-##### 
-
-
-##### Моя статистика открытых репозиториев:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swastest&show_icons=true&theme=dracula)
 
